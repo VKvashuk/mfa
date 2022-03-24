@@ -17,7 +17,6 @@ const prodConfig = {
                 marketing: `marketing@${domain}/marketing/remoteEntry.js`,
             },
             shared: packageJson.dependencies,
-            // shared: ["react", "react-dom"],
         }),
     ],
 };
